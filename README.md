@@ -1,6 +1,6 @@
 # Data Science Skill 项目
 
- Codex `data-science` skill 的过程。
+该项目里包括创建Codex `data-science` skill 的过程。
 
 
 ## 项目里有什么
