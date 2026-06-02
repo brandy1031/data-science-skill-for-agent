@@ -1,0 +1,7 @@
+interface:
+  display_name: "Data Science"
+  short_description: "面向真实数据集的可复现分析"
+  default_prompt: "使用 $data-science 检查、清洗、分析、建模、可视化并总结这个数据集，明确说明假设和 caveat。"
+
+policy:
+  allow_implicit_invocation: true
