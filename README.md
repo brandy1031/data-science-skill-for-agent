@@ -1,6 +1,6 @@
 # Data Science Skill 项目
 
-该项目里包括创建Codex `data-science` skill 的过程。
+该项目里包括创建Codex `data-science` skill 的过程，在agent里调用这个skill，可以辅助数据分析，提升数据分析效率，skill包括数据清洗、特征工程、可视化分析、预测建模等。
 
 
 ## 项目里有什么
