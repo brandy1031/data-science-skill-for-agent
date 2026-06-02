@@ -1,8 +1,7 @@
 # Data Science Skill 项目
 
-这个项目用来记录并复现刚才创建 Codex `data-science` skill 的过程。
+ Codex `data-science` skill 的过程。
 
-```
 
 ## 项目里有什么
 
@@ -10,14 +9,8 @@
 - `data/sample.csv`：测试用的小样例数据
 - `data/profile.json`：样例数据跑出来的概览结果
 - `docs/process.md`：这次创建、测试、排查 Python 环境的过程记录
-- `skill_snapshot/`：已经安装到 Codex 的 `data-science` skill 快照
+- `skill_snapshot/`：已经安装到 Codex 的 `data-science` skill主要内容，包括skill.md文件
 
-## 在终端里运行
-
-```bash
-/opt/anaconda3/bin/python src/check_environment.py
-/opt/anaconda3/bin/python src/profile_table.py data/sample.csv --out data/profile.json
-```
 
 ## 在 PyCharm 里运行
 
